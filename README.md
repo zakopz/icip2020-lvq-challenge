@@ -1,8 +1,10 @@
 # Dataset for ICIP-2020 Challenge titled "Real-time distortion classification in laparoscopic videos"
-[Download Link](https://drive.google.com/drive/folders/1Hq6omtZAOqAdUl9H3tJvoRp7gzpDoAl8?usp=sharing)
+## Train Dataset 
+[Download Link for Training Set](https://drive.google.com/drive/folders/1Hq6omtZAOqAdUl9H3tJvoRp7gzpDoAl8?usp=sharing)
+
 The password for the 7z archive is: lvq_icip20
 
-The dataset folder includes: 
+The train dataset folder includes: 
 - ICIP Laparoscopic Video Quality Challenge dataset:
   - 80 videos resulting from adding ADDITIVE WHITE GAUSSAIAN NOISE (AWGN) at 4 different levels as distortion to each reference video
   - 80 videos resulting from adding BLUR DUE TO DEFOCUS at 4 different levels as distortion to each reference video
@@ -20,6 +22,12 @@ The dataset folder includes:
 This ICIP LVQ Challenge dataset consists of a total of 800 distorted videos, each of 10 seconds which have been generated using a set of 20 reference videos. These videos are extracted from Cholec80 dataset (http://camma.u-strasbg.fr/datasets). The selection of the videos is made with an attempt to include maximum possible variations of scene content and temporal information. For scene content, ten different categories are chosen. These are bleeding (BL), grasping and burning(GB), multiple instruments (MI), irrigation (IR), clipping (CL), stretching away (SA), cutting (CU), stretching forward (SF), organ extraction (OE) and burning (BU).
 
 Each reference video is distorted by five different kinds of distortions (single or multiple distortions) with four different levels, resulting in a total of 800 videos. The resolution of the videos is 512 × 288 with a 16:9 aspect ratio and a frame-rate of 25 fps. We have used uncompressed avi format for the videos so as to avoid any kind of unwanted compression artefacts like blocking.
+
+## Test Dataset
+
+[Download Link for Test Set](https://drive.google.com/drive/folders/1i_zOEPmoLRicGMSwk8wHThL1TGW9p4lN)
+
+The test dataset consists of 200 videos with individual as well as mixture of distortions.
 
 ## LICENCE AND REFERENCES
 
