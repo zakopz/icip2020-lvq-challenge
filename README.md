@@ -1,4 +1,10 @@
 # Dataset for ICIP-2020 Challenge titled "Real-time distortion classification in laparoscopic videos"
+
+## Challenge Site
+The challenge was hosted at CodaLab and can be accessed at the following link
+
+[Challenge Link](https://competitions.codalab.org/competitions/25104)
+
 ## Train Dataset 
 [Download Link for Training Set](https://drive.google.com/drive/folders/1Hq6omtZAOqAdUl9H3tJvoRp7gzpDoAl8?usp=sharing)
 
